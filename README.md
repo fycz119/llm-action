@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/liguodongiot/llm-action/blob/main/pic/llm-action-v3.png" >
-</p>
-
-
 <p> 
 <a href="https://github.com/liguodongiot/llm-action/stargazers">
 <img src="https://img.shields.io/github/stars/liguodongiot/llm-action?style=social" > </a>
